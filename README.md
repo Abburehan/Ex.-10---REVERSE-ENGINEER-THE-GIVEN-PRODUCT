@@ -13,15 +13,24 @@
 ## PROCEDURE:
 ### Step 1.:- Duplicate all the geometric features for the given object using vernier caliper, measuring tapes or any instruments provided
 ### Step 2.:- Design the geometric features in 3D using auto desk fusion 360.
+![Screenshot (124)](https://github.com/Abburehan/Ex.-10---REVERSE-ENGINEER-THE-GIVEN-PRODUCT/assets/138849336/3384c1d5-a113-47d5-87ed-5f32442de386)
 ### Step 3.:- Save the file and export as .stl
+![Screenshot (125)](https://github.com/Abburehan/Ex.-10---REVERSE-ENGINEER-THE-GIVEN-PRODUCT/assets/138849336/1cae47df-125a-4fbe-8701-3d0e070a694f)
 ### Step 4.:- Check all Electrical connections in the 3D printer.
+![Screenshot (126)](https://github.com/Abburehan/Ex.-10---REVERSE-ENGINEER-THE-GIVEN-PRODUCT/assets/138849336/f58a741d-631e-4cdd-8f68-429a976abaf2)
 ### Step 5.:- First we install the software related the 3D printer (idea maker, ultimaker etc.)In idea maker first open the software and click the open file option.
+![Screenshot (127)](https://github.com/Abburehan/Ex.-10---REVERSE-ENGINEER-THE-GIVEN-PRODUCT/assets/138849336/0b035e8f-6ab9-4587-a548-fbf3a603b1fe)
 ### Step 6.:- Select the Pan option and select the extruder (left or right) for printing the design.
+![Screenshot (128)](https://github.com/Abburehan/Ex.-10---REVERSE-ENGINEER-THE-GIVEN-PRODUCT/assets/138849336/e23ff7b0-967c-4032-80a6-adfc4f362eca)
 ### Step 7.:- Select the Move option for design print position in build tack plate and then after select the Rotate option for rotating the design easily printed and used low print material.
+![Screenshot (129)](https://github.com/Abburehan/Ex.-10---REVERSE-ENGINEER-THE-GIVEN-PRODUCT/assets/138849336/fa52e329-8d24-4923-8efe-5de18de69ff4)
 ### Step 8.:- select the Scale option for design scale according to build tack plate area and then
 ### after click the start option and select printing option standard as shown in below figure.
+![Screenshot (130)](https://github.com/Abburehan/Ex.-10---REVERSE-ENGINEER-THE-GIVEN-PRODUCT/assets/138849336/07dc20ef-e6df-482d-900b-82ffe3bfea5b)
 ### Step 9.:- After completing the all setting then click the Slice option and export the file in gcode Format.
+![Screenshot (131)](https://github.com/Abburehan/Ex.-10---REVERSE-ENGINEER-THE-GIVEN-PRODUCT/assets/138849336/9bfeeb00-d66a-4ee4-935e-9321e0a912cd)
 ### Step 10.:- After generate the gcode format then follow the these instruction 
+
   ###   ●	Switch on the 3d printer.
   ###   ●	Place your Pen drive in USB.
   ###   ●	Clean your surface bed plate.
@@ -31,12 +40,14 @@
   ###   ●	Open the file from the USB storage and select the Print option.
 
 ## Input:
+![Screenshot (132)](https://github.com/Abburehan/Ex.-10---REVERSE-ENGINEER-THE-GIVEN-PRODUCT/assets/138849336/1344c345-971b-4cf8-8f5d-d8e1c7edf3d4)
 
 ### Output:
+![Screenshot (133)](https://github.com/Abburehan/Ex.-10---REVERSE-ENGINEER-THE-GIVEN-PRODUCT/assets/138849336/83cb5747-4a50-49ed-9ab2-9f912bce9657)
 
 
-### Name:
-### Register Number:
+### Name: Abbu Rehan
+### Register Number: 23010259
 
 ## RESULT:
 ###   Thus the given product is reverse engineered and prototyped using 3D Printer.
